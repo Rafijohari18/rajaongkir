@@ -1,0 +1,18 @@
+{
+    "name": "rafijohari/rajaongkir",
+    "description": "package ini di buat untuk integrasi dengan sistem rajaongkir",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafijohari",
+            "email": "Rafijohari1812@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RafiJohari\\RajaOngkir\\": "src/" 
+        } 
+    }
+}
